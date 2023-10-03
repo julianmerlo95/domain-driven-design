@@ -1,6 +1,6 @@
 # Application
 
-This is an example about Domain-Driven-Design
+This is a example about Domain-Driven-Design
 
 # Root
 
